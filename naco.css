@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.viewport{
+    display: flex;
+    background: #714b03;
+    font-size: 20px;
+    gap: 10rem;
+    height: 60px;
+    /* margin-left: 3rem; */
+    /* margin-top: 2rem; */
+}
+.content{
+    /* color: aqua; */
+    font-family: cursive;
+}
+.content h2{
+     margin-left: 2rem;
+}
+.Version button{
+    padding: 0.6rem 1rem;
+    margin-top: 0.5rem;
+    margin-left: 43rem;
+    background: #bc6904;
+    border-radius: 8px;
+    font-size: 20px;
+}
+.charset{
+    display: flex;
+    gap: 50rem;
+}
+.charsettt button{
+    gap: 5rem;
+    margin-top: 2rem;
+    border-radius: 6px;
+    font-size: 15px;
+    padding: 0.3rem 1rem;
+    color: #bc6904;
+    border-color: #bc6904;
+    background: #000;
+}
+.charsett h2{
+    margin-left: 3rem;
+    margin-top: 2rem;
+   font-size: 35px;
+   border-color: #bc6904;
+   box-shadow: #bc6904;
+}
+.name{
+    background: #5f3307;
+    width: 94%;
+    height: 90px;
+    margin-left: 2rem;
+    margin-top: 2rem;
+    display: flex;
+    color: #bc6904;
+    border-radius: 1rem;
+}
+.name p{
+    margin-top: 1rem;
+    margin-left: 2rem;
+}
+.name span{
+    margin-top: 1rem;
+    margin-left: 50rem;
+}
+.bitcoin{
+    background: #e87a3a;
+}
+/* .namee{
+    background: #423427;
+    width: 94%;
+    height: 300px;
+    margin-left: 2rem;
+    margin-top: 2rem;
+    display: flex;
+    color: #f8e0c2;
+    border-radius: 0.5rem;
+} */
+.namee p{
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+.namee span{
+    margin-top: 2rem;
+    margin-left: 30rem;
+}
+.namee i{
+    margin-top: 2rem;
+    margin-left: 23rem;
+}
+.ommo{
+    display: flex;
+    gap: 9rem;
+}
+.ommo ul img{
+    font-size: 20px;
+    width: 10px;
+    height: 10px;
+}
+.ommm{
+    display: flex;
+   
+}
+.ommoo{
+    display: flex;
+    margin-left: 2rem;
+}

@@ -1,0 +1,332 @@
+.Document{
+    background: #3f3a3a;
+    display: flex;
+}
+.viewport{
+    display: flex;
+    font-size: 15px;
+    gap: 6rem;
+    /* margin-top: 1rem; */
+}
+.ction{
+    /* background: #031f35; */
+    background: #92bfe4;
+    width: 1230px;
+    /* border-radius: 2rem; */
+}
+.viewport h2{
+    color: rgb(210, 80, 10);
+}
+.viewport p{
+      margin-left: 50rem;
+}
+.stylesheet button{
+    padding:8rem 6rem ;
+  
+   
+}
+.display{
+    background: #92bfe4;
+    height: 345px;
+    width: 1230px;
+}
+.Image{
+    display: flex;
+    width: 205px;
+    height: 300px ;
+    /* border-radius: 0.1rem; */
+    margin-left: 23.1rem;
+}
+.height{
+    display: flex;
+    /* background: #0e3051; */
+      /* border-radius: 2rem; */
+      /* width: 300px; */
+      /* margin-left: 10rem; */
+    
+}
+.copy{
+    /* border-radius: 0.1rem; */
+    display: flex;
+    width: 205px;
+    height: 300px ;
+    margin-left: rem;
+}
+.image img{
+    /* width: 100px; */
+    /* font-size: 10px; */
+    height: 100px;
+}
+.stylesheet{
+    display: flex;
+    padding:3rem 8rem ;
+    margin-left: 23rem;
+    border-radius: 2rem;
+    font-size: 30px;
+    font-family: cursive;
+    /* background: #232e53; */
+    background: #92bfe4;
+    color: #f2a381;
+}
+
+.White{
+    display: flex;
+    margin-left: 10rem;
+    /* border-radius: 6rem; */
+    gap: 3rem;
+}
+ .White img{
+      width: 200px;
+      border-radius: 6rem;
+      animation: mah 5s ease-in-out infinite
+ }
+ @keyframes mah{
+    10%{
+        transform: translateY(10px);
+    }
+}
+ .White button{
+    width: 230px;
+    height: 80px;
+      /* padding: 0rem 8rem; */
+      border-radius: 1rem;
+      margin-top: 5rem;
+      font-size: 30px;
+      font-family: cursive;
+      /* background: #272e55;
+      background: #92bfe4; */
+      color: #f4946a;
+ }
+.img{
+    width: 700px;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 15rem;
+    animation: mah 5s ease-in-out infinite
+    
+}
+@keyframes mah{
+    50%{
+        transform: translateY(50px);
+    }
+}
+.freee{
+    text-align: center;
+   
+
+    /* width: 100%; */
+    /* font-size: 80px; */
+    margin-left: 22rem;
+    /* color: antiquewhite; */
+}
+
+.freee{
+    text-align: center;
+    font-size: 50px;
+    width: 500px;
+    line-height: 30px;
+    -webkit-text-stroke: 1px #f0640d;
+    color: transparent;
+    background-image: linear-gradient(#fff, #c6bcbc);
+    background-repeat: no-repeat;
+    -webkit-background-clip: text;
+    background-position: -500px 0;
+    animation: back 7s linear infinite alternate
+}
+@keyframes back{
+    100%{
+        background-position: 0 0;
+    }
+}
+.freeee{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(237, 150, 19);
+}
+
+.Take{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(237, 150, 19);
+    font-family: cursive;
+}
+.Missed{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(237, 150, 19);
+    font-family: cursive;
+}
+.Register{
+    text-align: center;
+    font-size: 35px;
+    margin-left: 27rem;
+   background: #df4f11;
+   border-radius: 8rem;
+  
+}
+
+.SKULL{
+    text-align: center;
+    color: #fff;
+    padding-left: 22rem;
+    margin-top: 2rem;
+}
+.SKULL {
+    text-align: center;
+    font-size: 50px;
+    width: 500px;
+    line-height: 30px;
+    -webkit-text-stroke: 1px #f0640d;
+    color: transparent;
+    background-image: linear-gradient(#fff, #c6bcbc);
+    background-repeat: no-repeat;
+    -webkit-background-clip: text;
+    background-position: -500px 0;
+    animation: back 7s linear infinite alternate
+}
+@keyframes back{
+    100%{
+        background-position: 0 0;
+    }
+}
+.billion{
+    color: #f0640d;
+    margin-left: 1rem;
+    font-family: cursive;
+}
+.CONNECT{
+    display: flex;
+    gap: 12rem;
+    margin-top: 5rem;
+}
+.touch img{
+    width: 500px;
+    height: 300px;
+    border-radius: 3rem;
+}
+.seeking h1{
+   text-align: center;
+   color: #613aee;
+}
+.seeking p{
+   text-align: center;
+   color: #613aee;
+}
+.seeking button{
+    padding: 1rem 2rem;
+    margin-left: 8rem;
+}
+.WHITEPAPER{
+    display: flex;
+}
+.ABSTRACT{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #613aee;
+    margin-top: 2rem;
+}
+.LAYOUT img{
+    width: 500px;
+    margin-left: 3rem;
+    margin-top: 9rem;
+}
+.whitepaper{
+    display: flex;
+    gap: 6rem;
+
+}
+.GOAL{
+    text-align: center;
+    font-family: cursive;
+    font-size: 30px;
+}
+.OUR{
+    margin-top: 6rem;
+    font-family: cursive;
+    color: #e08a21;
+}
+.Web2{
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+    padding-left: 20rem;
+}
+.leaving p{
+   margin-left: 3rem;
+   font-size: 20px;
+   font-family: cursive;
+   color: #8a9307;
+}
+.leaving{
+    background: #dce4f4;
+    width: 1250px;
+}
+.leaving h3{
+    /* margin-top: 2rem; */
+    font-family: cursive;
+    margin-left: 19rem;
+    color: #f3bca4;
+}
+.leaving ul{
+     font-family: cursive;
+     color: #613aee;
+}
+.GAME{
+    color: #8a9307;
+    font-family: cursive;
+}
+.Smart{
+    display: flex;
+}
+.TOKENOMICS{
+    text-align: center;
+    color: #65f517;
+    font-family: cursive;
+}
+.GAME{
+    text-align: center; 
+}
+.Web2 h3{
+    color: #3a0ae7;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.Web2 p{
+  color: #65f517;
+  font-family: cursive;
+}
+.Smart{
+    background: #64b8e6;
+}
+.Smart h5{
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   color: #0b11c2;
+}
+.Smart p{
+    color: #254be5f8;
+    font-family: cursive;
+
+}
+.ecosystemaccording img{
+    width: 500px;
+}
+.ecosystemaccording{
+    display: flex;
+    margin-top: 3rem;
+    background: #4e4a4a;
+    width: 1260px;
+    gap: 5rem;
+}
+.ecosystemaccording h3{
+   margin-left: 3rem;
+   color: #390bdf;
+   font-family: cursive;
+}
+.ecosystemaccording p{
+     color: #0d28ad;
+     font-family: cursive;
+    
+}

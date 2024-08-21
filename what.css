@@ -1,0 +1,200 @@
+
+.Documentt{
+    justify-content: center;
+    align-items: center;
+    /* text-align: center; */
+}
+.viewport{
+    display: flex;
+    gap: 35rem;
+}
+.viewport i{
+  font-size: 40px;
+  color: #321df4;
+  margin-top: 1rem;
+
+}
+.viewport h1{
+     margin-left: 1rem;
+     font-family: cursive;
+     color: #2f21e8;
+}
+.form h2{
+    color: #e4e4f3;
+}
+.form p{
+    color: #a02908;
+    font-size: 12px;
+}
+.vvv{
+    width: 45rem;
+    height: 2px;
+    background: #2818c1;
+    margin-top: 2rem;
+    padding-right: 3rem;
+    margin-left: 1rem;
+}
+.form h2{
+    margin-left: 2rem;
+}
+.TeamHash{
+    margin-left: 6rem;
+}
+/* .span{
+    margin-right: 3rem;
+} */
+.Yied{
+    margin-left: 3rem;
+   padding-top: 6rem;
+}
+.margin{
+    margin-left: 10rem;
+}
+#team{
+    margin-left: 10rem;
+    margin-top: 2rem;
+    font-size: 30px;
+}
+.Team{
+    margin-left: 6rem;
+    font-size: 25px;
+}
+.form{
+    width: 50rem;
+    background: #8f91df;
+    height: 360px;
+    border-radius: 1rem;
+    /* font-size: 20px; */
+    /* gap: 20rem; */
+}
+.zoom{
+    display: flex;
+    color: #e4e4f3;
+}
+.fancy{
+    display: flex;
+    gap: 9rem;
+    
+}
+#pen > i{
+   margin-top: 4rem;
+   font-size: 30px;
+   margin-left: 2rem;
+   color: #6859ec;
+}
+#pen{
+    display: flex;
+    font-family: cursive;
+}
+#penth{
+   display: flex;
+   font-family: cursive;
+}
+#penth img{
+    margin-top: 2rem;
+    width: 50px;
+    height: 80px;
+    border-radius: 20rem;
+    margin-left: 3rem;
+}
+.gap{
+    font-size: 40px;
+    margin-top: 3rem;
+    color: #2a16d9;
+}
+
+.change{
+    width: 50rem;
+    background: #8f91df;
+    height: 700px;
+    border-radius: 1rem;
+    /* font-size: 20px; */
+    /* gap: 20rem; */
+    margin-top: 2rem;
+}
+.change p{
+   margin-left: 2rem;
+   font-size: 20px;
+   font-family: cursive;
+}
+
+.vvvv{
+    width: 45rem;
+    height: 2px;
+    background: #510eed;
+    margin-top: 0.2rem;
+    padding-right: 3rem;
+    margin-left: 1rem;
+}
+.Farming{
+    display: flex;
+    font-size: 10px;
+    margin-left: 2rem;
+}
+.Farming h1{
+   font-size: 30px;
+   /* margin-left: 2rem; */
+}
+.Farming h2{
+   font-size: 30px;
+   /* margin-left: 2rem; */
+}
+.Farming span{
+   font-size: 15px;
+   /* margin-left: 1rem; */
+}
+.soluta button{
+    padding: 1rem 4rem;
+    margin-left: 11rem;
+    margin-top: 8rem;
+    border-radius: 1rem;
+    gap: 5rem;
+    font-family: cursive;
+    font-size: 20px;
+}
+.Image{
+    background-image: url(./WhatsApp\ Image\ 2024-08-10\ at\ 06.33.17.jpeg);
+   height: 400px;
+   width:700px;
+   margin-left: 3rem;
+   border-radius: 2rem;
+   
+}
+.Image h1{
+    /* margin-top: 8rem; */
+    margin-left: 2rem;
+    font-size: 50px;
+    color: aliceblue;
+    font-family: cursive;
+
+}
+.Image p{
+    /* margin-top: 8rem; */
+    margin-left: 6rem;
+    font-size: 50px;
+    color: rgb(186, 56, 16);
+    font-family: cursive;
+
+}
+.Image span{
+    /* margin-top: 8rem; */
+    margin-left: 10rem;
+    font-size: 50px;
+    color: aliceblue;
+    font-family: cursive;
+
+}
+.Slash{
+    display: flex;
+    gap: 8rem;
+    margin-top: 1rem;
+    font-size: 40px;
+    /* margin-left: 1rem; */
+    background: #4481dc;
+    width: 800px;
+    height: 80px;
+}
+.Slash i{
+    margin-top: 2rem;
+}
+

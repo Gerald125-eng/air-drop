@@ -1,0 +1,122 @@
+.viewport h2{
+    justify-content: center;
+    /* text-align: center; */
+    font-size: 50px;
+    font-family: cursive;
+    margin-left: 2rem;
+    color: rgb(94, 55, 5);
+}
+.viewport p{
+    justify-content: center;
+    /* text-align: center; */
+    font-size: 30px;
+    font-family: cursive;
+    margin-left: 2rem;
+    color: rgb(184, 112, 17);
+}
+.obcaecati{
+    display: flex;
+    background: #000;
+}
+
+.vvv{
+    width: 16rem;
+    height: 2px;
+    background: #2818c1;
+    margin-top: 0.1rem;
+    padding-right: rem;
+    margin-left: 1rem;
+}
+
+#imka{
+    padding: 1rem;
+    margin: 2rem;
+    gap: 2rem;
+    color: rgb(228, 122, 36);
+    font-family: cursive;
+}
+#Return{
+    font-size: 30px;
+    text-align: center;
+}
+.Returnss{
+    font-size: 15px;
+    color: #220dda;
+}
+.Returns{
+    /* text-align: center; */
+    /* align-items: center; */
+    gap: 3rem;
+    margin-left: 2rem;
+    font-size: 15px;
+    color: #220dda;
+    font-size: 30px;
+    font-family: cursive;
+}
+.Skull{
+    gap: 3rem;
+    margin-left: 2rem;
+    font-size: 15px;
+    color: #220dda;
+    font-family: cursive;
+}
+.grid-e{
+    width: 70%;
+    height: 1000px;
+    display: flex;
+    background-color: rgb(224, 220, 220);
+    /* margin-left: 9rem; */
+    /* padding-right: 1rem; */
+    border-radius: 15px;
+     margin-left: 1rem;
+}
+.nostrum button{
+    /* padding: 2rem 5rem; */
+    width: 180px;
+    height: 75px;
+    /* margin-left: 30rem; */
+    margin-bottom: 1rem;
+    margin-left: 2rem;
+    font-size: 20px;
+    font-family: fantasy;
+    border-radius: 2rem;
+    background: #7c69e8;
+    
+}
+.button :hover{
+    /* background: #000; */
+    color: #8f84ec;
+}
+#goo{
+    text-align: center;
+    justify-content: center;
+    font-size: 25px;
+    color: #8f84ec;
+}
+.too{
+    width: 15rem;
+    height: 4px;
+    background: #000;
+    margin-top: 2.1rem;
+    margin-left: 1.5rem;  
+}
+.ivest h1{
+    /* font-size: 30px; */
+    gap: 3rem;
+    margin-left: 2rem;
+    font-size: 20px;
+    color: #220dda;
+    font-family: cursive;
+
+
+}
+.ivest p{
+    /* font-size: 30px; */
+    gap: 3rem;
+    margin-left: 2rem;
+    font-size: 20px;
+    color: #220dda;
+    font-family: cursive;
+
+
+}
